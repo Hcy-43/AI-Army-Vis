@@ -55,7 +55,7 @@ export async function loadPredictionData(
   const response = await fetch(`/data/prediction/${modelFile}/${sourceFile}.json`);
   
   if (!response.ok) {
-    console.error(`Failed to load prediction data for ${demographicSource}/${predictionModel}`);
+    console.error(`Failed to load prediction data for ${predictionModel}/${demographicSource}`);
     return [];
   }
   

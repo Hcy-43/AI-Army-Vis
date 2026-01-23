@@ -1,12 +1,19 @@
 "use client"
 
-import { Bar, BarChart, XAxis, YAxis, Cell, ResponsiveContainer, Tooltip, LabelList } from "recharts"
+import { Bar, BarChart, XAxis, YAxis, Cell, ResponsiveContainer, Tooltip, LabelList, ComposedChart } from "recharts"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { CANDIDATES } from "@/lib/types"
 import type { Prediction } from "@/lib/types"
 
 interface DistributionChartProps {
   predictions: Prediction[]
+}
+
+// Real election results
+const ELECTION_RESULTS: Record<string, number> = {
+  "1": 40.05, // 賴清德
+  "2": 33.49, // 侯友宜
+  "3": 26.46, // 柯文哲
 }
 
 export function DistributionChart({ predictions }: DistributionChartProps) {
@@ -22,10 +29,66 @@ export function DistributionChart({ predictions }: DistributionChartProps) {
   const total = predictions.length
   const chartData = Object.entries(CANDIDATES).map(([key, { name, color }]) => ({
     candidate: name,
-    votes: distribution[key] || 0,
-    percentage: total > 0 ? ((distribution[key] || 0) / total * 100).toFixed(1) : "0",
-    fill: color,
+    predictedPercentage: total > 0 ? ((distribution[key] || 0) / total * 100) : 0,
+    actualPercentage: ELECTION_RESULTS[key],
+    color: color,
   }))
+
+  // Custom label component for predicted percentage
+  const renderPredictedLabel = (props: any) => {
+    const { x, y, width, value, height } = props
+    return (
+      <g>
+        <text 
+          x={x + width / 2} 
+          y={y - 8} 
+          fill="hsl(var(--foreground))" 
+          textAnchor="middle" 
+          fontSize={14}
+          fontWeight={600}
+        >
+          {value.toFixed(1)}%
+        </text>
+        <text 
+          x={x + width / 2} 
+          y={y + height + 15} 
+          fill="hsl(var(--foreground))" 
+          textAnchor="middle" 
+          fontSize={12}
+        >
+          Predicted
+        </text>
+      </g>
+    )
+  }
+
+  // Custom label component for actual percentage
+  const renderActualLabel = (props: any) => {
+    const { x, y, width, value, height } = props
+    return (
+      <g>
+        <text 
+          x={x + width / 2} 
+          y={y - 8} 
+          fill="hsl(var(--muted-foreground))" 
+          textAnchor="middle" 
+          fontSize={12}
+          fontWeight={500}
+        >
+          {value.toFixed(1)}%
+        </text>
+        <text 
+          x={x + width / 2} 
+          y={y + height + 15} 
+          fill="hsl(var(--muted-foreground))" 
+          textAnchor="middle" 
+          fontSize={12}
+        >
+          Real
+        </text>
+      </g>
+    )
+  }
 
   return (
     <Card className="border-border">
@@ -34,16 +97,18 @@ export function DistributionChart({ predictions }: DistributionChartProps) {
         <p className="text-sm text-muted-foreground">Total responses: {total}</p>
       </CardHeader>
       <CardContent>
-        <div className="h-[300px]">
+        <div className="h-80">
           <ResponsiveContainer width="100%" height="100%">
-            <BarChart data={chartData} margin={{ top: 20, right: 20, left: 20, bottom: 40 }}>
+            <ComposedChart data={chartData} margin={{ top: 30, right: 20, left: 20, bottom: 50 }}>
               <XAxis 
                 type="category" 
                 dataKey="candidate" 
                 stroke="hsl(var(--muted-foreground))" 
-                fontSize={12}
+                fontSize={16}
+                fontWeight={600}
                 tickLine={false}
                 axisLine={false}
+                dy={25}
               />
               <YAxis 
                 type="number" 
@@ -51,7 +116,8 @@ export function DistributionChart({ predictions }: DistributionChartProps) {
                 fontSize={12}
                 tickLine={false}
                 axisLine={false}
-                allowDecimals={false}
+                domain={[0, 50]}
+                tickFormatter={(value) => `${value}%`}
               />
               <Tooltip
                 cursor={{ fill: "hsl(var(--muted))", opacity: 0.3 }}
@@ -63,24 +129,28 @@ export function DistributionChart({ predictions }: DistributionChartProps) {
                   fontSize: "12px",
                   color: "#000000",
                 }}
-                formatter={(value: number, _name: string, props: { payload?: { percentage?: string } }) => [
-                  `${value} votes (${props.payload?.percentage}%)`,
-                  "Votes",
+                formatter={(value: number, name: string) => [
+                  `${value.toFixed(1)}%`,
+                  name === "predictedPercentage" ? "Predicted" : "Actual Result"
                 ]}
               />
-              <Bar dataKey="votes" radius={[4, 4, 0, 0]} maxBarSize={80}>
+              
+              {/* Predicted bars */}
+              <Bar dataKey="predictedPercentage" radius={[4, 4, 0, 0]} maxBarSize={80}>
                 {chartData.map((entry, index) => (
-                  <Cell key={`cell-${index}`} fill={entry.fill} />
+                  <Cell key={`cell-${index}`} fill={entry.color} />
                 ))}
-                <LabelList 
-                  dataKey="votes" 
-                  position="top" 
-                  fill="hsl(var(--foreground))" 
-                  fontSize={14}
-                  fontWeight={600}
-                />
+                <LabelList content={renderPredictedLabel} />
               </Bar>
-            </BarChart>
+              
+              {/* Actual result bars (semi-transparent overlay) */}
+              <Bar dataKey="actualPercentage" radius={[4, 4, 0, 0]} maxBarSize={80}>
+                {chartData.map((entry, index) => (
+                  <Cell key={`cell-actual-${index}`} fill={entry.color} opacity={0.3} />
+                ))}
+                <LabelList content={renderActualLabel} />
+              </Bar>
+            </ComposedChart>
           </ResponsiveContainer>
         </div>
       </CardContent>

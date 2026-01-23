@@ -21,14 +21,17 @@ import {
 } from "@/components/ui/dialog"
 import { CANDIDATES } from "@/lib/types"
 import type { SurveyData, Prediction } from "@/lib/types"
+import { PREDICTION_MODELS } from "@/lib/types"
 import { ChevronLeft, ChevronRight, Search, Eye } from "lucide-react"
 
 interface SurveyTableProps {
   surveyData: SurveyData[]
-  predictions: Prediction[]
+  predictions: Prediction[] // Currently selected predictions for table display
+  allPredictions: Prediction[] // All predictions for detail view
+  currentModel?: string // Current selected model for display
 }
 
-export function SurveyTable({ surveyData, predictions }: SurveyTableProps) {
+export function SurveyTable({ surveyData, predictions, allPredictions, currentModel }: SurveyTableProps) {
   const [page, setPage] = useState(1)
   const [search, setSearch] = useState("")
   const [selectedSurvey, setSelectedSurvey] = useState<SurveyData | null>(null)
@@ -40,6 +43,15 @@ export function SurveyTable({ surveyData, predictions }: SurveyTableProps) {
     acc[pred.userstudyid] = pred
     return acc
   }, {} as Record<string, Prediction>)
+  
+  // Group all predictions by user study id
+  const allPredictionsMap = (allPredictions || []).reduce((acc, pred) => {
+    if (!acc[pred.userstudyid]) {
+      acc[pred.userstudyid] = []
+    }
+    acc[pred.userstudyid].push(pred)
+    return acc
+  }, {} as Record<string, Prediction[]>)
   
   // Filter data based on search
   const filteredData = surveyData.filter((survey) => {
@@ -101,7 +113,14 @@ export function SurveyTable({ surveyData, predictions }: SurveyTableProps) {
                   <TableHead className="font-medium">Location</TableHead>
                   <TableHead className="font-medium">Gender</TableHead>
                   <TableHead className="font-medium">Party</TableHead>
-                  <TableHead className="font-medium">Prediction</TableHead>
+                  <TableHead className="font-medium">
+                    Prediction
+                    {currentModel && (
+                      <span className="text-muted-foreground font-normal ml-1">
+                        ({PREDICTION_MODELS.find(m => m.value === currentModel)?.label || currentModel})
+                      </span>
+                    )}
+                  </TableHead>
                   <TableHead className="font-medium w-[80px]">Details</TableHead>
                 </TableRow>
               </TableHeader>
@@ -181,7 +200,7 @@ export function SurveyTable({ surveyData, predictions }: SurveyTableProps) {
       
       {/* Detail Dialog */}
       <Dialog open={!!selectedSurvey} onOpenChange={() => setSelectedSurvey(null)}>
-        <DialogContent className="max-w-sm bg-card">
+        <DialogContent className="max-w-2xl bg-card max-h-[80vh] overflow-y-auto">
           <DialogHeader>
             <DialogTitle>Survey Details - {selectedSurvey?.user_study_id}</DialogTitle>
           </DialogHeader>
@@ -191,34 +210,55 @@ export function SurveyTable({ surveyData, predictions }: SurveyTableProps) {
                 {selectedSurvey.metadata.map((item, idx) => (
                   <div key={idx} className="flex justify-between items-start py-2 border-b border-border last:border-0">
                     <span className="text-sm text-muted-foreground">{item.question}</span>
-                    <span className="text-sm font-medium text-right max-w-[200px]">{item.answer}</span>
+                    <span className="text-sm font-medium text-right max-w-[300px]">{item.answer}</span>
                   </div>
                 ))}
               </div>
               
-              {/* Prediction */}
-              {predictionMap[selectedSurvey.user_study_id] && (
+              {/* All Predictions */}
+              {selectedSurvey && (
                 <div className="pt-4 border-t border-border">
-                  <p className="text-sm text-muted-foreground mb-2">Model Prediction</p>
-                  <div className="flex items-center gap-2">
-                    {(() => {
-                      const pred = getPrediction(selectedSurvey)
-                      return pred ? (
-                        <Badge 
-                          className="text-sm"
-                          style={{ 
-                            backgroundColor: pred.color,
-                            color: "var(--background)"
-                          }}
-                        >
-                          {pred.name}
-                        </Badge>
-                      ) : null
-                    })()}
-                    {/* <span className="text-sm text-muted-foreground">
-                      (confidence: {Math.abs(predictionMap[selectedSurvey.user_study_id].llm_answer_logprob).toFixed(3)})
-                    </span> */}
-                  </div>
+                  <p className="text-sm text-muted-foreground mb-3">All Model Predictions</p>
+                  {(() => {
+                    const surveyPredictions = allPredictionsMap[selectedSurvey.user_study_id] || []
+                    
+                    return surveyPredictions.length > 0 ? (
+                      <div className="space-y-3">
+                        {surveyPredictions.map((pred, idx) => {
+                          const candidate = CANDIDATES[pred.llm_answer]
+                          let modelLabel = pred.engine 
+                            ? (PREDICTION_MODELS.find(m => m.value === pred.engine)?.label || pred.engine)
+                            : "Survey Intention"
+                          
+                          // Handle specific engine names
+                          if (pred.engine === "claude-3-haiku-20240307") {
+                            modelLabel = "Claude-3-haiku"
+                          }
+                          
+                          return (
+                            <div key={idx} className="flex items-center justify-between py-2 px-3 rounded-md bg-secondary/30">
+                              <div className="flex flex-col gap-1">
+                                <span className="text-xs text-muted-foreground">
+                                  {modelLabel}
+                                </span>
+                                <Badge 
+                                  className="text-xs w-fit"
+                                  style={{ 
+                                    backgroundColor: candidate.color,
+                                    color: "var(--background)"
+                                  }}
+                                >
+                                  {candidate.name}
+                                </Badge>
+                              </div>
+                            </div>
+                          )
+                        })}
+                      </div>
+                    ) : (
+                      <p className="text-sm text-muted-foreground">No predictions found for this survey</p>
+                    )
+                  })()}
                 </div>
               )}
             </div>

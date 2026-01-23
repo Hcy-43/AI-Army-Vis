@@ -30,7 +30,7 @@ export const SURVEY_SOURCES: { value: SurveySource; label: string }[] = [
 ]
 
 export const PREDICTION_MODELS: { value: PredictionModel; label: string }[] = [
-  { value: "real", label: "Real (Ground Truth)" },
+  { value: "real", label: "Survey Intention" },
   { value: "gpt-4", label: "GPT-4" },
   { value: "gpt-4o", label: "GPT-4o" },
   { value: "haiku", label: "Claude Haiku" },

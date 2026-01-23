@@ -8,6 +8,7 @@ import { BreakdownChart } from "@/components/breakdown-chart"
 import { SurveyTable } from "@/components/survey-table"
 import { loadDemographicData, loadPredictionData } from "@/lib/data-store"
 import type { SurveySource, PredictionModel, SurveyData, Prediction } from "@/lib/types"
+import { PREDICTION_MODELS } from "@/lib/types"
 import { BarChart3, Loader2 } from "lucide-react"
 
 export default function DashboardPage() {
@@ -24,18 +25,38 @@ export default function DashboardPage() {
   }
   const [surveyData, setSurveyData] = useState<SurveyData[]>([])
   const [predictions, setPredictions] = useState<Prediction[]>([])
+  const [allPredictions, setAllPredictions] = useState<Prediction[]>([])
   const [loading, setLoading] = useState(true)
 
   // Load data when settings change
   useEffect(() => {
     async function fetchData() {
       setLoading(true)
+      
+      // Load current selection
       const [demographic, prediction] = await Promise.all([
         loadDemographicData(surveySource),
         loadPredictionData(surveySource, predictionModel),
       ])
+      
+      // Load ALL predictions for all models
+      const allPredictionModels = PREDICTION_MODELS.map(m => m.value).filter(model => {
+        // Skip "real" predictions if survey source is not "real"
+        if (model === "real" && surveySource !== "real") {
+          return false
+        }
+        return true
+      })
+      const allPredictionsData = await Promise.all(
+        allPredictionModels.map(model => loadPredictionData(surveySource, model))
+      )
+      
+      // Flatten all predictions into a single array
+      const flattenedPredictions = allPredictionsData.flat()
+      
       setSurveyData(demographic)
       setPredictions(prediction)
+      setAllPredictions(flattenedPredictions)
       setLoading(false)
     }
     fetchData()
@@ -94,7 +115,11 @@ export default function DashboardPage() {
             
             {/* Survey Data Table */}
             {hasData && (
-              <SurveyTable surveyData={surveyData} predictions={predictions} />
+              <SurveyTable 
+                surveyData={surveyData} 
+                predictions={predictions}
+                allPredictions={allPredictions}
+              />
             )}
 
             {/* No Data Message */}
