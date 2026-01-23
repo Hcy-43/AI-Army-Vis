@@ -1,0 +1,7614 @@
+[
+  {
+    "userstudyid": "1",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "3",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "6",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "7",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "8",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "12",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "14",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "15",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "16",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "17",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "18",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "23",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "24",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "25",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "28",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "29",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "30",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "32",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "35",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "38",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "39",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "40",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "41",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "42",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "43",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "44",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "45",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "46",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "47",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "48",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "49",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "50",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "52",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "53",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "54",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "56",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "57",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "58",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "59",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "63",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "64",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "65",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "66",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "67",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "68",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "70",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "71",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "72",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "73",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "74",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "75",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "77",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "78",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "80",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "82",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "83",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "86",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "87",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "90",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "92",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "93",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "94",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "95",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "96",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "97",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "98",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "99",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "100",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "101",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "102",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "104",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "105",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "106",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "107",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "108",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "109",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "110",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "111",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "112",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "113",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "114",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "115",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "116",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "117",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "118",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "119",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "120",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "121",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "122",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "125",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "126",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "127",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "128",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "129",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "130",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "131",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "132",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "133",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "135",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "136",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "137",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "138",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "139",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "140",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "141",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "142",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "143",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "145",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "146",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "147",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "149",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "150",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "151",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "152",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "153",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "155",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "156",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "157",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "158",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "159",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "160",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "161",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "162",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "163",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "164",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "165",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "166",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "167",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "168",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "169",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "170",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "171",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "172",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "174",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "175",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "176",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "178",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "182",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "183",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "184",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "185",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "186",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "187",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "189",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "190",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "195",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "196",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "197",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "198",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "199",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "200",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "203",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "205",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "206",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "208",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "210",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "212",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "213",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "215",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "216",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "217",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "219",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "225",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "226",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "227",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "228",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "231",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "232",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "233",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "234",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "235",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "236",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "238",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "241",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "242",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "243",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "244",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "245",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "247",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "248",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "249",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "250",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "253",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "255",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "256",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "257",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "259",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "262",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "263",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "264",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "266",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "267",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "268",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "269",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "270",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "273",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "275",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "276",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "278",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "279",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "280",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "283",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "285",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "286",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "290",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "291",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "293",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "295",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "296",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "299",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "300",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "302",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "306",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "308",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "310",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "311",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "312",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "315",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "318",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "319",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "320",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "321",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "322",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "324",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "325",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "326",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "329",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "331",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "332",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "333",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "334",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "336",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "337",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "338",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "339",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "340",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "341",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "342",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "343",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "344",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "346",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "348",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "349",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "351",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "352",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "353",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "354",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "358",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "359",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "360",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "362",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "364",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "365",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "366",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "367",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "368",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "369",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "370",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "371",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "372",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "375",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "376",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "377",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "378",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "379",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "380",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "381",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "382",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "383",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "384",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "385",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "386",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "387",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "388",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "389",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "390",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "391",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "392",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "393",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "394",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "395",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "396",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "397",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "398",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "399",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "400",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "401",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "402",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "403",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "404",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "405",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "406",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "407",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "408",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "409",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "410",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "411",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "412",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "413",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "414",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "415",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "416",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "417",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "418",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "419",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "420",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "422",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "423",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "424",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "425",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "426",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "427",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "428",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "429",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "430",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "431",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "432",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "433",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "434",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "435",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "436",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "438",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "439",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "440",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "442",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "443",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "444",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "445",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "446",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "447",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "448",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "449",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "450",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "451",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "452",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "453",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "454",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "455",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "456",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "457",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "458",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "459",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "460",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "461",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "463",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "464",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "465",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "466",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "467",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "468",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "469",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "470",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "471",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "472",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "473",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "474",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "475",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "476",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "477",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "478",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "479",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "480",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "481",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "482",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "483",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "484",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "485",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "486",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "487",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "488",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "489",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "490",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "491",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "492",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "493",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "494",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "495",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "496",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "497",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "498",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "499",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "500",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "501",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "502",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "503",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "504",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "505",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "506",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "507",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "508",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "509",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "510",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "511",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "512",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "513",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "514",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "515",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "516",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "517",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "518",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "519",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "520",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "521",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "522",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "523",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "524",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "525",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "527",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "528",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "529",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "530",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "531",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "532",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "533",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "534",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "535",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "536",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "537",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "538",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "539",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "540",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "541",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "542",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "543",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "544",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "545",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "546",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "547",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "548",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "549",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "550",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "551",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "552",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "553",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "554",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "555",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "556",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "557",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "558",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "559",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "560",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "561",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "562",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "563",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "564",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "565",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "566",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "567",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "568",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "569",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "570",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "571",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "572",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "573",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "574",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "575",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "576",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "577",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "578",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "579",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "580",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "581",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "582",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "583",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "585",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "586",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "587",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "588",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "589",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "590",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "591",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "592",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "593",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "594",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "595",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "596",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "597",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "598",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "599",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "600",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "602",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "603",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "604",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "605",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "606",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "607",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "608",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "609",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "610",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "611",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "612",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "613",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "614",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "615",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "616",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "617",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "618",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "619",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "620",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "621",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "622",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "624",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "625",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "626",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "627",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "628",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "629",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "630",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "631",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "632",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "633",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "634",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "635",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "636",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "637",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "638",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "639",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "640",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "641",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "642",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "643",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "644",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "645",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "646",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "647",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "648",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "649",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "650",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "651",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "652",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "653",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "654",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "655",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "656",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "657",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "658",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "659",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "660",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "661",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "662",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "663",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "664",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "665",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "666",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "667",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "668",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "669",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "670",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "671",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "672",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "673",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "674",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "675",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "676",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "677",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "678",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "679",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "680",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "681",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "682",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "683",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "684",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "685",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "686",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "687",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "688",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "689",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "690",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "691",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "692",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "694",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "695",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "696",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "697",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "698",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "699",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "700",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "701",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "702",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "703",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "704",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "705",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "706",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "707",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "708",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "709",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "710",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "711",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "712",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "713",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "714",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "715",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "716",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "717",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "718",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "719",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "720",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "721",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "722",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "723",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "724",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "725",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "726",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "727",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "728",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "729",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "730",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "731",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "732",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "733",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "734",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "735",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "736",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "737",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "738",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "739",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "740",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "741",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "742",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "743",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "744",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "745",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "746",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "747",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "748",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "749",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "750",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "751",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "752",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "753",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "754",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "755",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "756",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "757",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "758",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "759",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "760",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "761",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "762",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "763",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "764",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "765",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "766",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "767",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "768",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "769",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "770",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "771",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "772",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "773",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "774",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "775",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "776",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "777",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "778",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "779",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "780",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "782",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "783",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "784",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "785",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "786",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "787",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "788",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "789",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "790",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "791",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "792",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "793",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "794",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "795",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "796",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "797",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "798",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "799",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "800",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "801",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "802",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "804",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "805",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "806",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "807",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "808",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "809",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "810",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "811",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "812",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "813",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "814",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "815",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "816",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "817",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "818",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "819",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "820",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "821",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "822",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "823",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "824",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "825",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "826",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "827",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "828",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "829",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "830",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "831",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "832",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "833",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "834",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "835",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "836",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "837",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "838",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "839",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "840",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "841",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "842",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "843",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "844",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "845",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "846",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "849",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "850",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "851",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "853",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "854",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "855",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "856",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "857",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "859",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "860",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "861",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "862",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "863",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "864",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "867",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "868",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "869",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "870",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "871",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "872",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "873",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "874",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "875",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "876",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "878",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "879",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "881",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "882",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "883",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "884",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "885",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "886",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "887",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "888",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "889",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "890",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "891",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "892",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "893",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "894",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "895",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "896",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "897",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "898",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "899",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "900",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "901",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "902",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "903",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "904",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "905",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "907",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "908",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "909",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "910",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "911",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "912",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "913",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "914",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "915",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "916",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "917",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "918",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "919",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "920",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "921",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "922",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "923",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "924",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "925",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "926",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "927",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "929",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "930",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "931",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "932",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "933",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "934",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "936",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "937",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "938",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "939",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "940",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "941",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "942",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "943",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "944",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "945",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "946",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "947",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "948",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "949",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "950",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "951",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "952",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "953",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "954",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "956",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "957",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "958",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "959",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "960",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "961",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "962",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "963",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "964",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "965",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "966",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "967",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "968",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "969",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "970",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "971",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "972",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "973",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "974",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "975",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "976",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "977",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "978",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "979",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "980",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "981",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "982",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "983",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "984",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "985",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "986",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "987",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "988",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "989",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "990",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "991",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "992",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "993",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "994",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "996",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "998",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "999",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1000",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1001",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1002",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1003",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1004",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1005",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1006",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1007",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1008",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1009",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1010",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1012",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1013",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1014",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1015",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1016",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1017",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1018",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1019",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1020",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1021",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1022",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1023",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1024",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1025",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1026",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1027",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1028",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1029",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1030",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1031",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1032",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1033",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1034",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1035",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1036",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1037",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1038",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1039",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1040",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1041",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1042",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1043",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1044",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1045",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1046",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1047",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1048",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1050",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1051",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1052",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1053",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1054",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1055",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1056",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1057",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1058",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1059",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1061",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1063",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1064",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1065",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1066",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1067",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1070",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1072",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1076",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1077",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1078",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1079",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1081",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1082",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1083",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1085",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1087",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1089",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1090",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1091",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1092",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1093",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1094",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1095",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1096",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1097",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1098",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1099",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1100",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1101",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1102",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1103",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1104",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1105",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1106",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1107",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1108",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1109",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1110",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1111",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1112",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1113",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1114",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1115",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1116",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1117",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1118",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1119",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1120",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1121",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1122",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1123",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1124",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1125",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1126",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1127",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1128",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1129",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1130",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1131",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1132",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1133",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1134",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1135",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1136",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1137",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1138",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1139",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1140",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1141",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1142",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1143",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1144",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1145",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1146",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1147",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1148",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1149",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1150",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1151",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1152",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1153",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1154",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1155",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1156",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1157",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1158",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1160",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1161",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1162",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1163",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1164",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1165",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1166",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1167",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1168",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1169",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1170",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1171",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1172",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1174",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1175",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1176",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1177",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1178",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1179",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1180",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1181",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1182",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1183",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1184",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1185",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1186",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1187",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1188",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1189",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1190",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1191",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1192",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1194",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1195",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1196",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1197",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1198",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1200",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1201",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1202",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1203",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1204",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1205",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1206",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1207",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1208",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1209",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1210",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1211",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1213",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1214",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1215",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1216",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1217",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1218",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1219",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1220",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1222",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1224",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1226",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1227",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1230",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1232",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1233",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1234",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1236",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1238",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1239",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1242",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1243",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1244",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1245",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1246",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1247",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1248",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1251",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1252",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1253",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1254",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1256",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1259",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1260",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1261",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1262",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1264",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1266",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1267",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1272",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1274",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1276",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1279",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1280",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1281",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1282",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1283",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1284",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1286",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1288",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1289",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1291",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1295",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1297",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1298",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1300",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1301",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1302",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1303",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1309",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1310",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1312",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1314",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1317",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1318",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1319",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1321",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1322",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1325",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1326",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1327",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1328",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1330",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1331",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1332",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1334",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1336",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1341",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1342",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1344",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1345",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1347",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1348",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1349",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1350",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1351",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1352",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1354",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1355",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1356",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1357",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1359",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1360",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1361",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1362",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1363",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1364",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1365",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1366",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1367",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1368",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1371",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1372",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1373",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1374",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1375",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1376",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1377",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1379",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1380",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1381",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1384",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1385",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1388",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1389",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1390",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1391",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1392",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1393",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1394",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1396",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1397",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1398",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1399",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1400",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1401",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1402",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1403",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1404",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1406",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1407",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1408",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1409",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1411",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1412",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1414",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1415",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1417",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1418",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1419",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1420",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1421",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1422",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1425",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1426",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1427",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1429",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1430",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1432",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1434",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1435",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1436",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1437",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1438",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1440",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1442",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1446",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1447",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1448",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1449",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1450",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1452",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1454",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1455",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1456",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1457",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1458",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1461",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1463",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1464",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1468",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1469",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1470",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1471",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1475",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1478",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1480",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1481",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1484",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1487",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1490",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1491",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1492",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1493",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1494",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1495",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1497",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1498",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1500",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1501",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1506",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1508",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1509",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1510",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1511",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1513",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1514",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1515",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1516",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1517",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1518",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1519",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1521",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1522",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1524",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1525",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1526",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1532",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1533",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1534",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1536",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1538",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1539",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1540",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1541",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1545",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1546",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1550",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1551",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1553",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1555",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1560",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1561",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1564",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1567",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1569",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1571",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1574",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1575",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1579",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1580",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1581",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1583",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1584",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1586",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1587",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1589",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1590",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1591",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1592",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1593",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1594",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1595",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1596",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1598",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1599",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1600",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1601",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1602",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1604",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1605",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1606",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1608",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1610",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1611",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1614",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1615",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1616",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1617",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1618",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1620",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1621",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1622",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1623",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1624",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1625",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1626",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1627",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1628",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1631",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1632",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1633",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1634",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1635",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1636",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1637",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1638",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1639",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1640",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1641",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1642",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1643",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1644",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1645",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1647",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1648",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1649",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1650",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1651",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1655",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1658",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1659",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1660",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1661",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1663",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1664",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1667",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1668",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1669",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1670",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1672",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1673",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1674",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1677",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1679",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1680",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1681",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1682",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1684",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1686",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1687",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1689",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1690",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1691",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1693",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1695",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1696",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1697",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1698",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1699",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1700",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1701",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1702",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1704",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1706",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1707",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1708",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1709",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1710",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1713",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1717",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1718",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1719",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1720",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1721",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1722",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1723",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1724",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1725",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1726",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1727",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1728",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1729",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1730",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1732",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1733",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1734",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1735",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1737",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1738",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1739",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1740",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1741",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1742",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1743",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1744",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1745",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1746",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1748",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1749",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1750",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1753",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1755",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1756",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1758",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1759",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1761",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1763",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1764",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1766",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1767",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1768",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1769",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1772",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1774",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1776",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1777",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1778",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1779",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1780",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1781",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1782",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1783",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1784",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1785",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1790",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1791",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1792",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1793",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1794",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1796",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1797",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1798",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1799",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1800",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1801",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1802",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1803",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1804",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1805",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1806",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1807",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1808",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1809",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1810",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1811",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1812",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1813",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1815",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1816",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1818",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1819",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1820",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1821",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1824",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1826",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1828",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1829",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1830",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1833",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1834",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1835",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1836",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1837",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1839",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1840",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1842",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1843",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1844",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1845",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1846",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1847",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1850",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1852",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1854",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1855",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1856",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1858",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1860",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1861",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1862",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1863",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1864",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1865",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1866",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1867",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1869",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1870",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1872",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1873",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1874",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1875",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1876",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1878",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1879",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1880",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1881",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1882",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1885",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1886",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1887",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1890",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1891",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1892",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1893",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1894",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1895",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1897",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1898",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1901",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1902",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1903",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1904",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1905",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1907",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1908",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1909",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1910",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1911",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1912",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1913",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1914",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1916",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1917",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1918",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1919",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1920",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1921",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1922",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1923",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1924",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1925",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1926",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1927",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1928",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1929",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1931",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1934",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1936",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1937",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1939",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1940",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1942",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1943",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1945",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1946",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1947",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1948",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1949",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1950",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1952",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1954",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1955",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1956",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1959",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1961",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1962",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1963",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1964",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1965",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1966",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1967",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1971",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1974",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1975",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1976",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1978",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1980",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1981",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1982",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "1984",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1985",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1987",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "1988",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1991",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1993",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1995",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1996",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "1999",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2000",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2001",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2002",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2003",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2004",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2005",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2006",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2007",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2008",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2009",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2011",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2012",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2013",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2014",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2015",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2016",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2017",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2018",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2019",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2020",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2021",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2022",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2024",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2026",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2027",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2028",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2029",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2030",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2032",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2034",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2035",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2037",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2038",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2040",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2042",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2043",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2044",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2045",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2046",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2047",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2048",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2049",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2050",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2051",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2053",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2055",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2056",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2057",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2058",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2059",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2060",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2061",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2062",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2065",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2066",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2067",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2068",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2069",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2072",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2073",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2075",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2076",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2077",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2078",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2079",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2080",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2081",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2082",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2083",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2085",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2086",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2087",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2090",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2091",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2092",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2093",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2094",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2095",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2097",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2098",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2103",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2104",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2106",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2107",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2108",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2109",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2111",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2112",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2113",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2114",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2115",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2116",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2117",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2118",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2119",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2121",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2122",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2123",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2124",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2125",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2126",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2127",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2128",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2129",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2130",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2131",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2132",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2134",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2135",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2136",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2137",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2139",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2140",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2141",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2142",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2143",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2144",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2145",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2146",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2148",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2149",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2152",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2153",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2157",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2158",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2159",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2160",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2166",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2167",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2168",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2169",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2170",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2172",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2173",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2175",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2176",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2177",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2179",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2180",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2181",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2182",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2183",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2184",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2186",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2188",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2189",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2190",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2191",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2192",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2193",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2194",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2196",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2199",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2201",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2202",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2203",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2204",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2205",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2207",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2208",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2211",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2212",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2214",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2215",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2216",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2217",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2218",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2219",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2222",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2223",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2225",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2226",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2227",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2229",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2230",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2231",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2232",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2233",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2234",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2241",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2242",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2243",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2244",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2245",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2246",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2247",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2248",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2249",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2250",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2251",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2253",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2254",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2255",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2256",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2257",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2258",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2259",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2260",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2262",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2263",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2264",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2265",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2266",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2267",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2268",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2271",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2273",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2275",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2276",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2278",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2279",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2280",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2282",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2283",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2284",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2286",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2288",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2289",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2290",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2291",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2292",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2293",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2294",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2296",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2297",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2298",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2299",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2300",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2301",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2303",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2304",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2306",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2308",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2309",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2310",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2312",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2313",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2317",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2318",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2319",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2320",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2321",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2322",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2323",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2324",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2326",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2327",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2330",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2332",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2333",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2334",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2335",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2336",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2337",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2338",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2339",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2340",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2341",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2342",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2344",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2345",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2346",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2347",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2348",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2350",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2351",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2352",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2353",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2355",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2358",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2359",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2360",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2361",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2362",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2363",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2365",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2367",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2368",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2370",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2372",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2373",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2374",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2375",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2376",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2378",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2382",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2384",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2385",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2386",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2387",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2388",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2389",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2390",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2392",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2393",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2394",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2395",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2397",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2398",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2400",
+    "llm_answer": 3
+  },
+  {
+    "userstudyid": "2401",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2402",
+    "llm_answer": 2
+  },
+  {
+    "userstudyid": "2403",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2404",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2405",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2406",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2407",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2408",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2409",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2410",
+    "llm_answer": 1
+  },
+  {
+    "userstudyid": "2411",
+    "llm_answer": 1
+  }
+]

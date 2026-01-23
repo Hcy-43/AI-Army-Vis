@@ -1,0 +1,5 @@
+[
+  { "userstudyid": "h-1", "engine": "haiku", "llm_answer": "2", "llm_answer_logprob": -0.15 },
+  { "userstudyid": "h-2", "engine": "haiku", "llm_answer": "1", "llm_answer_logprob": -0.10 },
+  { "userstudyid": "h-3", "engine": "haiku", "llm_answer": "3", "llm_answer_logprob": -0.20 }
+]

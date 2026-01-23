@@ -1,0 +1,82 @@
+[
+  {
+    "user_study_id": "1",
+    "batch_id": 1,
+    "metadata": [
+      { "question": "年齡", "answer": "30~39歲" },
+      { "question": "戶籍所在地", "answer": "台北市" },
+      { "question": "性別", "answer": "女" },
+      { "question": "政黨支持傾向", "answer": "民主進步黨" },
+      { "question": "立法委員政黨票支持選擇", "answer": "民主進步黨" },
+      { "question": "未來立法院結構期望", "answer": "民進黨過半" },
+      { "question": "教育程度", "answer": "研究所及以上" },
+      { "question": "父親省籍", "answer": "本省閩南人" },
+      { "question": "身份認同（台灣人/中國人）", "answer": "台灣人" },
+      { "question": "2020 總統選舉投票選擇", "answer": "蔡英文" }
+    ]
+  },
+  {
+    "user_study_id": "2",
+    "batch_id": 1,
+    "metadata": [
+      { "question": "年齡", "answer": "40~49歲" },
+      { "question": "戶籍所在地", "answer": "新北市" },
+      { "question": "性別", "answer": "男" },
+      { "question": "政黨支持傾向", "answer": "中國國民黨" },
+      { "question": "立法委員政黨票支持選擇", "answer": "中國國民黨" },
+      { "question": "未來立法院結構期望", "answer": "國民黨過半" },
+      { "question": "教育程度", "answer": "大學" },
+      { "question": "父親省籍", "answer": "外省人" },
+      { "question": "身份認同（台灣人/中國人）", "answer": "都是" },
+      { "question": "2020 總統選舉投票選擇", "answer": "韓國瑜" }
+    ]
+  },
+  {
+    "user_study_id": "3",
+    "batch_id": 1,
+    "metadata": [
+      { "question": "年齡", "answer": "20~29歲" },
+      { "question": "戶籍所在地", "answer": "台中市" },
+      { "question": "性別", "answer": "男" },
+      { "question": "政黨支持傾向", "answer": "台灣民眾黨" },
+      { "question": "立法委員政黨票支持選擇", "answer": "台灣民眾黨" },
+      { "question": "未來立法院結構期望", "answer": "三黨不過半" },
+      { "question": "教育程度", "answer": "大學" },
+      { "question": "父親省籍", "answer": "本省閩南人" },
+      { "question": "身份認同（台灣人/中國人）", "answer": "台灣人" },
+      { "question": "2020 總統選舉投票選擇", "answer": "蔡英文" }
+    ]
+  },
+  {
+    "user_study_id": "4",
+    "batch_id": 1,
+    "metadata": [
+      { "question": "年齡", "answer": "50~59歲" },
+      { "question": "戶籍所在地", "answer": "高雄市" },
+      { "question": "性別", "answer": "女" },
+      { "question": "政黨支持傾向", "answer": "民主進步黨" },
+      { "question": "立法委員政黨票支持選擇", "answer": "民主進步黨" },
+      { "question": "未來立法院結構期望", "answer": "民進黨過半" },
+      { "question": "教育程度", "answer": "高中職" },
+      { "question": "父親省籍", "answer": "本省客家人" },
+      { "question": "身份認同（台灣人/中國人）", "answer": "台灣人" },
+      { "question": "2020 總統選舉投票選擇", "answer": "蔡英文" }
+    ]
+  },
+  {
+    "user_study_id": "5",
+    "batch_id": 1,
+    "metadata": [
+      { "question": "年齡", "answer": "60~69歲" },
+      { "question": "戶籍所在地", "answer": "桃園市" },
+      { "question": "性別", "answer": "男" },
+      { "question": "政黨支持傾向", "answer": "中國國民黨" },
+      { "question": "立法委員政黨票支持選擇", "answer": "中國國民黨" },
+      { "question": "未來立法院結構期望", "answer": "國民黨過半" },
+      { "question": "教育程度", "answer": "專科" },
+      { "question": "父親省籍", "answer": "外省人" },
+      { "question": "身份認同（台灣人/中國人）", "answer": "都是" },
+      { "question": "2020 總統選舉投票選擇", "answer": "韓國瑜" }
+    ]
+  }
+]

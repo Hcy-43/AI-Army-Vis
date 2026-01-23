@@ -1,0 +1,5 @@
+[
+  { "userstudyid": "g4-1", "engine": "gpt-4", "llm_answer": "1", "llm_answer_logprob": -0.04 },
+  { "userstudyid": "g4-2", "engine": "gpt-4", "llm_answer": "3", "llm_answer_logprob": -0.11 },
+  { "userstudyid": "g4-3", "engine": "gpt-4", "llm_answer": "2", "llm_answer_logprob": -0.07 }
+]

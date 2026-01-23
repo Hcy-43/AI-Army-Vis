@@ -1,0 +1,5 @@
+[
+  { "userstudyid": "201", "engine": "real", "llm_answer": "2", "llm_answer_logprob": 0 },
+  { "userstudyid": "202", "engine": "real", "llm_answer": "1", "llm_answer_logprob": 0 },
+  { "userstudyid": "203", "engine": "real", "llm_answer": "3", "llm_answer_logprob": 0 }
+]
