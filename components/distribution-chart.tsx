@@ -37,26 +37,33 @@ export function DistributionChart({ predictions }: DistributionChartProps) {
   // Custom label component for predicted percentage
   const renderPredictedLabel = (props: any) => {
     const { x, y, width, value, height } = props
+    // Use responsive spacing and font size based on bar width
+    const isNarrow = width < 60
+    const horizontalOffset = 0
+    const fontSize = isNarrow ? 10 : 14
+    const labelFontSize = isNarrow ? 10 : 12
+    const labelText = isNarrow ? "Pred" : "Predicted"
+    
     return (
       <g>
         <text 
-          x={x + width / 2} 
+          x={x + width / 2 - horizontalOffset} 
           y={y - 8} 
           fill="hsl(var(--foreground))" 
           textAnchor="middle" 
-          fontSize={14}
+          fontSize={fontSize}
           fontWeight={600}
         >
           {value.toFixed(1)}%
         </text>
         <text 
-          x={x + width / 2} 
+          x={x + width / 2 - horizontalOffset} 
           y={y + height + 15} 
           fill="hsl(var(--foreground))" 
           textAnchor="middle" 
-          fontSize={12}
+          fontSize={labelFontSize}
         >
-          Predicted
+          {labelText}
         </text>
       </g>
     )
@@ -65,24 +72,30 @@ export function DistributionChart({ predictions }: DistributionChartProps) {
   // Custom label component for actual percentage
   const renderActualLabel = (props: any) => {
     const { x, y, width, value, height } = props
+    // Use responsive spacing and font size based on bar width
+    const isNarrow = width < 60
+    const horizontalOffset = 0
+    const fontSize = isNarrow ? 10 : 12
+    const labelFontSize = isNarrow ? 10 : 12
+    
     return (
       <g>
         <text 
-          x={x + width / 2} 
+          x={x + width / 2 + horizontalOffset} 
           y={y - 8} 
           fill="hsl(var(--muted-foreground))" 
           textAnchor="middle" 
-          fontSize={12}
+          fontSize={fontSize}
           fontWeight={500}
         >
           {value.toFixed(1)}%
         </text>
         <text 
-          x={x + width / 2} 
+          x={x + width / 2 + horizontalOffset} 
           y={y + height + 15} 
           fill="hsl(var(--muted-foreground))" 
           textAnchor="middle" 
-          fontSize={12}
+          fontSize={labelFontSize}
         >
           Real
         </text>
