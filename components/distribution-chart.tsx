@@ -144,9 +144,9 @@ export function DistributionChart({ predictions }: DistributionChartProps) {
               </Bar>
               
               {/* Actual result bars (semi-transparent overlay) */}
-              <Bar dataKey="actualPercentage" radius={[4, 4, 0, 0]} maxBarSize={80}>
+              <Bar dataKey="actualPercentage" radius={[4, 4, 0, 0]} maxBarSize={10}>
                 {chartData.map((entry, index) => (
-                  <Cell key={`cell-actual-${index}`} fill={entry.color} opacity={0.3} />
+                  <Cell key={`cell-actual-${index}`} fill="black" opacity={0.7} />
                 ))}
                 <LabelList content={renderActualLabel} />
               </Bar>
