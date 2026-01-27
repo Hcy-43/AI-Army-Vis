@@ -74,7 +74,7 @@ async function getOpenAIPrediction(
     userstudyid: entry.user_study_id,
     engine: model,
     llm_answer: choice,
-    llm_answer_logprob: response.choices[0].logprobs?.content?.[0].logprop ?? 0,
+    llm_answer_logprob: 0,
   }
 }
 
@@ -88,7 +88,11 @@ async function getClaudePrediction(entry: any): Promise<Prediction> {
     messages: [{ role: "user", content: userPrompt }],
   })
 
-  const choiceNumber = response.content[0].text.trim()
+  const contentBlock = response.content[0]
+  const choiceNumber =
+    contentBlock && contentBlock.type === "text"
+      ? contentBlock.text.trim()
+      : ""
   const choice =
     choiceNumber && Object.keys(MODEL_CHOICES).includes(choiceNumber)
       ? MODEL_CHOICES[choiceNumber as keyof typeof MODEL_CHOICES]
@@ -98,7 +102,7 @@ async function getClaudePrediction(entry: any): Promise<Prediction> {
     userstudyid: entry.user_study_id,
     engine: "haiku",
     llm_answer: choice,
-    llm_answer_logprob: -1, // Confidence score is not directly available
+    llm_answer_logprob: 0,
   }
 }
 
