@@ -15,7 +15,14 @@ const nextConfig: NextConfig = {
       webpack: any;
     }
   ): Configuration => {
-    config.resolve.alias['@'] = path.join(__dirname, './');
+    if (!config.resolve) {
+      config.resolve = {};
+    }
+    if (!config.resolve.alias) {
+      config.resolve.alias = {};
+    }
+    (config.resolve.alias as { [key: string]: string | string[] })["@"] =
+      path.join(__dirname, "./");
     return config;
   },
   env: {
