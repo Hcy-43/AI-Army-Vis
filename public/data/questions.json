@@ -1,0 +1,12 @@
+[
+  {"q_num": 0, "q_name": "年齡", "question_text": "請問您的年齡是？"},
+  {"q_num": 1, "q_name": "戶籍所在地", "question_text": "請問您的戶籍所在地是？"},
+  {"q_num": 2, "q_name": "性別", "question_text": "請問您的性別是？"},
+  {"q_num": 13, "q_name": "政黨支持傾向", "question_text": "請問您的政黨支持傾向是？"},
+  {"q_num": 14, "q_name": "立法委員政黨票支持選擇", "question_text": "請問您的立法委員政黨票支持選擇是？"},
+  {"q_num": 15, "q_name": "未來立法院結構期望", "question_text": "請問您對未來立法院結構的期望是？"},
+  {"q_num": 16, "q_name": "教育程度", "question_text": "請問您的教育程度是？"},
+  {"q_num": 17, "q_name": "父親省籍", "question_text": "請問您父親的省籍是？"},
+  {"q_num": 18, "q_name": "身份認同（台灣人/中國人）", "question_text": "請問您的身份認同是？"},
+  {"q_num": 19, "q_name": "2020 總統選舉投票選擇", "question_text": "請問您在2020年總統選舉的投票選擇是？"}
+]

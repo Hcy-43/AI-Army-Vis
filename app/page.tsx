@@ -67,20 +67,7 @@ export default function DashboardPage() {
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Header */}
-      <header className="border-b border-border sticky top-0 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 z-50">
-        <div className="container mx-auto px-4 py-4">
-          <div className="flex items-center gap-3">
-            <div className="p-2 rounded-lg bg-primary/10">
-              <BarChart3 className="h-6 w-6 text-primary" />
-            </div>
-            <div>
-              <h1 className="text-xl font-semibold">Election Survey Visualization</h1>
-              <p className="text-sm text-muted-foreground">Taiwan 2024 Presidential Election Prediction Analysis</p>
-            </div>
-          </div>
-        </div>
-      </header>
+
       
       {/* Main Content */}
       <main className="container mx-auto px-4 py-6 space-y-6">
@@ -119,6 +106,7 @@ export default function DashboardPage() {
                 surveyData={surveyData} 
                 predictions={predictions}
                 allPredictions={allPredictions}
+                currentModel={predictionModel}
               />
             )}
 

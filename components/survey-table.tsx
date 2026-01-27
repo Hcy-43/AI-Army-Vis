@@ -26,9 +26,9 @@ import { ChevronLeft, ChevronRight, Search, Eye } from "lucide-react"
 
 interface SurveyTableProps {
   surveyData: SurveyData[]
-  predictions: Prediction[] // Currently selected predictions for table display
-  allPredictions: Prediction[] // All predictions for detail view
-  currentModel?: string // Current selected model for display
+  predictions: Prediction[] // Predictions for currently selected model (dashboard)
+  allPredictions: Prediction[] // All predictions from all models (upload/survey)
+  currentModel?: string // The currently selected model on the dashboard
 }
 
 export function SurveyTable({ surveyData, predictions, allPredictions, currentModel }: SurveyTableProps) {
@@ -38,13 +38,13 @@ export function SurveyTable({ surveyData, predictions, allPredictions, currentMo
   
   const pageSize = 10
   
-  // Create a map of predictions by user study id
-  const predictionMap = predictions.reduce((acc, pred) => {
+  // Create a map of predictions for the currently selected model (for dashboard)
+  const singlePredictionMap = (predictions || []).reduce((acc, pred) => {
     acc[pred.userstudyid] = pred
     return acc
   }, {} as Record<string, Prediction>)
   
-  // Group all predictions by user study id
+  // Group all predictions by user study id and model for the multi-model display
   const allPredictionsMap = (allPredictions || []).reduce((acc, pred) => {
     if (!acc[pred.userstudyid]) {
       acc[pred.userstudyid] = []
@@ -53,19 +53,21 @@ export function SurveyTable({ surveyData, predictions, allPredictions, currentMo
     return acc
   }, {} as Record<string, Prediction[]>)
   
-  // Filter data based on search
+  // Filter data based on search and prediction availability
   const filteredData = surveyData.filter((survey) => {
+    // If a currentModel is specified (dashboard), ensure there's a prediction for it
+    if (currentModel && !singlePredictionMap[survey.user_study_id]) return false
+    // If no specific model (upload/survey), ensure there's at least one prediction for the survey
+    if (!currentModel && allPredictionsMap[survey.user_study_id]?.length === 0) return false
 
-    if (!predictionMap[survey.user_study_id]) return false 
-    
     if (!search) return true
     const searchLower = search.toLowerCase()
     return (
       survey.user_study_id.toLowerCase().includes(searchLower) ||
-      survey.metadata.some(m => 
+      (survey.metadata && survey.metadata.some(m => 
         m.answer.toLowerCase().includes(searchLower) ||
         m.question.toLowerCase().includes(searchLower)
-      )
+      ))
     )
   })
   
@@ -74,11 +76,21 @@ export function SurveyTable({ surveyData, predictions, allPredictions, currentMo
   
   // Get key metadata for display
   const getMetadataValue = (survey: SurveyData, question: string) => {
+    if (!survey.metadata) return "-" // Add null check for metadata
     return survey.metadata.find(m => m.question === question)?.answer || "-"
   }
   
-  const getPrediction = (survey: SurveyData) => {
-    const pred = predictionMap[survey.user_study_id]
+  // Get prediction for the single selected model (dashboard)
+  const getSingleModelPredictionForDisplay = (survey: SurveyData) => {
+    const pred = singlePredictionMap[survey.user_study_id]
+    if (!pred) return null
+    return CANDIDATES[pred.llm_answer]
+  }
+
+  // Get prediction for a specific model from all predictions (upload/survey)
+  const getMultiModelPredictionForDisplay = (survey: SurveyData, model: string) => {
+    const surveyPredictions = allPredictionsMap[survey.user_study_id] || []
+    const pred = surveyPredictions.find(p => p.engine === model)
     if (!pred) return null
     return CANDIDATES[pred.llm_answer]
   }
@@ -113,57 +125,116 @@ export function SurveyTable({ surveyData, predictions, allPredictions, currentMo
                   <TableHead className="font-medium">Location</TableHead>
                   <TableHead className="font-medium">Gender</TableHead>
                   <TableHead className="font-medium">Party</TableHead>
-                  <TableHead className="font-medium">
-                    Prediction
-                    {currentModel && (
+                  {currentModel ? (
+                    <TableHead className="font-medium">
+                      Prediction
                       <span className="text-muted-foreground font-normal ml-1">
                         ({PREDICTION_MODELS.find(m => m.value === currentModel)?.label || currentModel})
                       </span>
-                    )}
-                  </TableHead>
+                    </TableHead>
+                  ) : (
+                    <>
+                      <TableHead className="font-medium">GPT-4</TableHead>
+                      <TableHead className="font-medium">GPT-4o</TableHead>
+                      <TableHead className="font-medium">Haiku</TableHead>
+                    </>
+                  )}
                   <TableHead className="font-medium w-[80px]">Details</TableHead>
                 </TableRow>
               </TableHeader>
               <TableBody>
-                {paginatedData.map((survey) => {
-                  const prediction = getPrediction(survey)
-                  return (
-                    <TableRow key={survey.user_study_id} className="hover:bg-secondary/30">
-                      <TableCell className="font-mono text-sm">{survey.user_study_id}</TableCell>
-                      <TableCell>{getMetadataValue(survey, "年齡")}</TableCell>
-                      <TableCell>{getMetadataValue(survey, "戶籍所在地")}</TableCell>
-                      <TableCell>{getMetadataValue(survey, "性別")}</TableCell>
+                {paginatedData.map((survey) => (
+                  <TableRow key={survey.user_study_id} className="hover:bg-secondary/30">
+                    <TableCell className="font-mono text-sm">{survey.user_study_id}</TableCell>
+                    <TableCell>{getMetadataValue(survey, "年齡")}</TableCell>
+                    <TableCell>{getMetadataValue(survey, "戶籍所在地")}</TableCell>
+                    <TableCell>{getMetadataValue(survey, "性別")}</TableCell>
+                    <TableCell>
+                      <Badge variant="outline" className="text-xs">
+                        {getMetadataValue(survey, "政黨支持傾向")}
+                      </Badge>
+                    </TableCell>
+                    {currentModel ? (
                       <TableCell>
-                        <Badge variant="outline" className="text-xs">
-                          {getMetadataValue(survey, "政黨支持傾向")}
-                        </Badge>
+                        {(() => {
+                          const prediction = getSingleModelPredictionForDisplay(survey)
+                          return prediction && (
+                            <Badge 
+                              className="text-xs"
+                              style={{ 
+                                backgroundColor: prediction.color,
+                                color: "var(--background)"
+                              }}
+                            >
+                              {prediction.name}
+                            </Badge>
+                          )
+                        })()}
                       </TableCell>
-                      <TableCell>
-                        {prediction && (
-                          <Badge 
-                            className="text-xs"
-                            style={{ 
-                              backgroundColor: prediction.color,
-                              color: "var(--background)"
-                            }}
-                          >
-                            {prediction.name}
-                          </Badge>
-                        )}
-                      </TableCell>
-                      <TableCell>
-                        <Button
-                          variant="ghost"
-                          size="icon"
-                          onClick={() => setSelectedSurvey(survey)}
-                        >
-                          <Eye className="h-4 w-4" />
-                          <span className="sr-only">View details</span>
-                        </Button>
-                      </TableCell>
-                    </TableRow>
-                  )
-                })}
+                    ) : (
+                      <>
+                        <TableCell>
+                          {(() => {
+                            const prediction = getMultiModelPredictionForDisplay(survey, "gpt-4")
+                            return prediction && (
+                              <Badge 
+                                className="text-xs"
+                                style={{ 
+                                  backgroundColor: prediction.color,
+                                  color: "var(--background)"
+                                }}
+                              >
+                                {prediction.name}
+                              </Badge>
+                            )
+                          })()}
+                        </TableCell>
+                        <TableCell>
+                          {(() => {
+                            const prediction = getMultiModelPredictionForDisplay(survey, "gpt-4o")
+                            return prediction && (
+                              <Badge 
+                                className="text-xs"
+                                style={{ 
+                                  backgroundColor: prediction.color,
+                                  color: "var(--background)"
+                                }}
+                              >
+                                {prediction.name}
+                              </Badge>
+                            )
+                          })()}
+                        </TableCell>
+                        <TableCell>
+                          {(() => {
+                            const prediction = getMultiModelPredictionForDisplay(survey, "haiku")
+                            return prediction && (
+                              <Badge 
+                                className="text-xs"
+                                style={{ 
+                                  backgroundColor: prediction.color,
+                                  color: "var(--background)"
+                                }}
+                              >
+                                {prediction.name}
+                              </Badge>
+                            )
+                          })()}
+                        </TableCell>
+                      </>
+                    )}
+                    <TableCell>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        onClick={() => setSelectedSurvey(survey)}
+                      >
+                        <Eye className="h-4 w-4" />
+                        <span className="sr-only">View details</span>
+                      </Button>
+                    </TableCell>
+                  </TableRow>
+                ))}
               </TableBody>
             </Table>
           </div>

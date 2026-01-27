@@ -1,7 +1,16 @@
-import type { NextConfig } from "next";
+const path = require('path');
 
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
+    config.resolve.alias['@'] = path.join(__dirname, './');
+    return config;
+  },
+  env: {
+    PROJECT_OPENAI_API_KEY: process.env.PROJECT_OPENAI_API_KEY,
+    PROJECT_ANTHROPIC_API_KEY: process.env.PROJECT_ANTHROPIC_API_KEY,
+  },
+  turbopack: {},
 };
 
-export default nextConfig;
+module.exports = nextConfig;
