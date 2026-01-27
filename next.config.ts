@@ -1,8 +1,20 @@
-const path = require('path');
+import path from 'path';
+import type { NextConfig } from 'next';
+import type { Configuration } from 'webpack';
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
+const nextConfig: NextConfig = {
+  webpack: (
+    config: Configuration,
+    options: {
+      buildId: string;
+      dev: boolean;
+      isServer: boolean;
+      defaultLoaders: {
+        babel: any;
+      };
+      webpack: any;
+    }
+  ): Configuration => {
     config.resolve.alias['@'] = path.join(__dirname, './');
     return config;
   },
@@ -13,4 +25,4 @@ const nextConfig = {
   turbopack: {},
 };
 
-module.exports = nextConfig;
+export default nextConfig;
