@@ -19,27 +19,6 @@ Given a respondent's demographic background, several LLMs (GPT-4, GPT-4o, Claude
 - [Recharts](https://recharts.org) for visualization
 - OpenAI SDK + Anthropic SDK for LLM predictions
 
-## Getting started
-
-```bash
-npm install
-```
-
-Create a `.env.local` with API keys for the prediction endpoints:
-
-```bash
-PROJECT_OPENAI_API_KEY=sk-...
-PROJECT_ANTHROPIC_API_KEY=sk-ant-...
-```
-
-Then run the dev server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000). The dashboard works out of the box using the pre-generated datasets in `public/data`; API keys are only needed for the live survey and upload pages, which call the LLMs on demand. `mock_survey_data.json` is a sample file you can use to try the upload page.
-
 ## Project structure
 
 ```
